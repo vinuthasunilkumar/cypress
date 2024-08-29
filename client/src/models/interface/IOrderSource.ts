@@ -1,0 +1,3 @@
+interface OrderSource {
+    abbreviation: string;
+  }

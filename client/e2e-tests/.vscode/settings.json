@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "afterDelay",
+    "cucumberautocomplete.steps": [
+        "**/cypress/e2e/step_definitions/*.js",
+    ],
+    "cucumberautocomplete.syncfeatures": "**/cypress/e2e/features/*.feature",
+    "cucumber.parameterTypes": [],
+    "cucumber.features": [
+        "features/**/*.feature",
+        "src/test/**/*.feature"
+    ],
+    "cucumber.glue": [
+        "features/**/*.php",
+        "features/**/*.rb",
+        "features/**/*.ts",
+        "features/**/*.py",
+        "src/test/**/*.java",
+        "*specs*/**/.cs"
+    ],
+    "cucumberautocomplete.customParameters": [],
+    "tabnine.experimentalAutoImports": true,
+}

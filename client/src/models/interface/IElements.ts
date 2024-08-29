@@ -1,0 +1,3 @@
+interface IMedicationElementsV1Dto{
+
+}

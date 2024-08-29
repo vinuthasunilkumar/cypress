@@ -1,0 +1,150 @@
+[
+  {
+    "shortAbbreviation": "appl",
+    "abbreviation": "applicatorfuls"
+  },
+  {
+    "shortAbbreviation": "buc tab",
+    "abbreviation": "buccal tablets"
+  },
+  {
+    "shortAbbreviation": "capl",
+    "abbreviation": "caplets"
+  },
+  {
+    "shortAbbreviation": "cap",
+    "abbreviation": "capsules"
+  },
+  {
+    "shortAbbreviation": "cc per hour",
+    "abbreviation": "cc per hour"
+  },
+  {
+    "shortAbbreviation": "cm",
+    "abbreviation": "centimeters"
+  },
+  {
+    "shortAbbreviation": "gtt",
+    "abbreviation": "drops"
+  },
+  {
+    "shortAbbreviation": "film",
+    "abbreviation": "films"
+  },
+  {
+    "shortAbbreviation": "g",
+    "abbreviation": "grams"
+  },
+  {
+    "shortAbbreviation": "in",
+    "abbreviation": "inches"
+  },
+  {
+    "shortAbbreviation": "z",
+    "abbreviation": "lozenges"
+  },
+  {
+    "shortAbbreviation": "mg/h",
+    "abbreviation": "mg/hour"
+  },
+  {
+    "shortAbbreviation": "mcg",
+    "abbreviation": "micrograms"
+  },
+  {
+    "shortAbbreviation": "mg",
+    "abbreviation": "milligrams"
+  },
+  {
+    "shortAbbreviation": "ml",
+    "abbreviation": "milliliters"
+  },
+  {
+    "shortAbbreviation": "mmu",
+    "abbreviation": "million units"
+  },
+  {
+    "shortAbbreviation": "ng",
+    "abbreviation": "nanograms"
+  },
+  {
+    "shortAbbreviation": "op inst",
+    "abbreviation": "ophthalmic inserts"
+  },
+  {
+    "shortAbbreviation": "pkt",
+    "abbreviation": "packets"
+  },
+  {
+    "shortAbbreviation": "pstl",
+    "abbreviation": "pastilles"
+  },
+  {
+    "shortAbbreviation": "patch",
+    "abbreviation": "patches"
+  },
+  {
+    "shortAbbreviation": "plt",
+    "abbreviation": "pellets"
+  },
+  {
+    "shortAbbreviation": "gum",
+    "abbreviation": "pieces of gum"
+  },
+  {
+    "shortAbbreviation": "puff",
+    "abbreviation": "puffs"
+  },
+  {
+    "shortAbbreviation": "pump",
+    "abbreviation": "pumps"
+  },
+  {
+    "shortAbbreviation": "resp",
+    "abbreviation": "respules"
+  },
+  {
+    "shortAbbreviation": "sch",
+    "abbreviation": "sachets"
+  },
+  {
+    "shortAbbreviation": "scp",
+    "abbreviation": "scoops"
+  },
+  {
+    "shortAbbreviation": "spray",
+    "abbreviation": "sprays"
+  },
+  {
+    "shortAbbreviation": "sup",
+    "abbreviation": "suppositories"
+  },
+  {
+    "shortAbbreviation": "tblsp",
+    "abbreviation": "tablespoonfuls"
+  },
+  {
+    "shortAbbreviation": "tab",
+    "abbreviation": "tablets"
+  },
+  {
+    "shortAbbreviation": "tsp",
+    "abbreviation": "teaspoonfuls"
+  },
+  {
+    "shortAbbreviation": "u",
+    "abbreviation": "units"
+  },
+  {
+    "shortAbbreviation": "vag inst",
+    "abbreviation": "vaginal inserts"
+  },
+  {
+    "shortAbbreviation": "vag ring",
+    "abbreviation": "vaginal rings"
+  },
+  {
+    "shortAbbreviation": "wafer",
+    "abbreviation": "wafers"
+  }
+]

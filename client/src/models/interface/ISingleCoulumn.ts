@@ -1,0 +1,3 @@
+interface ISingleCoulumn {
+    value: string;
+}

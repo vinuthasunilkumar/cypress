@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "value": "Custom Days"
+  },
+  {
+    "id": 2,
+    "value": "Every Other Day"
+  },
+  {
+    "id": 3,
+    "value": "Even Dates"
+  },
+  {
+    "id": 4,
+    "value": "Odd Dates"
+  }
+]

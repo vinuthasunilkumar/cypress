@@ -1,0 +1,71 @@
+{
+  "name": "e2e-tests",
+  "version": "1.0.0",
+  "description": "E2E Tests For Order Writer",
+  "main": "index.ts",
+  "scripts": {
+    "cypress:runner": "cypress open",
+    "cypress:qa61runner": "cypress open --config-file cypressFunctionalQA61.config.ts",
+    "cypress:qa51runner": "cypress open --config-file cypressRegressionQA51.config.ts",
+    "cypress:execution": "cypress run --browser chrome --headless",
+    "clean:reports": "rmdir /S/Q reports &&  mkdir reports",
+    "clean:results": "rm -r results",
+    "clean:downloads": "rmdir /S/Q cypress\\downloads  &&  mkdir cypress\\downloads",
+    "pretest": "npm run clean:reports && npm run clean:downloads ",
+    "posttest": "node cucumber-html-report.js",
+    "headless:run": "npm run pretest && npm run cypress:execution && npm run posttest",
+    "adoheadless:run": "npm run clean:adoresults || npm run cypress:execution || npm run junit-report",
+    "test": "npm run clean:downloads && npm run cypress:runner",
+    "postchrome-test": "jrm ./results/combined-report.xml \"./results/*.xml\"",
+    "junit-report": "jrm results/combined.xml \"results/*.xml\""
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Sudipta Lodh",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.1",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
+    "@testing-library/cypress": "^10.0.2",
+    "@types/cypress-cucumber-preprocessor": "^4.0.1",
+    "@types/pg": "^8.11.6",
+    "axe-core": "^4.9.1",
+    "clipboardy": "^4.0.0",
+    "cypress": "^13.12.0",
+    "cypress-axe": "^1.4.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-downloadfile": "^1.2.4",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-multi-reporters": "^1.6.4",
+    "cypress-real-events": "^1.13.0",
+    "esbuild": "^0.21.5",
+    "junit-report-merger": "^7.0.0",
+    "mocha-junit-reporter": "^2.2.1",
+    "multiple-cucumber-html-reporter": "^3.6.2",
+    "pg": "^8.12.0",
+    "typescript": "^5.5.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "stepDefinitions": "cypress/e2e/step_definitions/*.ts",
+    "filterSpecs": true,
+    "omitFiltered": true,
+    "json": {
+      "enabled": true,
+      "formatter": "./json-formatter/cucumber-json-formatter",
+      "output": "cypress/reports/json/cucumber-report.json"
+    },
+    "html": {
+      "enabled": true,
+      "output": "cypress/reports/cucumber-report.html"
+    }
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "popper.js": "^1.16.1"
+  }
+}

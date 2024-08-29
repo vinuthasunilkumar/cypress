@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.matrixcare.com/neo/2.7.1/dist/css/neo.min.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <base href="/" />
+    <title>MatrixCare Medication Search</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      document.addEventListener("neoInitEvent", function (e) {
+        //initialize Neo as custom event, from View.js
+        $().neo();
+      });
+    </script>
+    <script src="https://cdn.matrixcare.com/neo/plugins/jquery/3.5.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.matrixcare.com/neo/2.7.1/dist/js/neo.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "value": "Schedule II",
+    "label": "Schedule II"
+  },
+  {
+    "id": 3,
+    "value": "Schedule III",
+    "label": "Schedule III"
+  },
+  {
+    "id": 4,
+    "value": "Schedule IV",
+    "label": "Schedule IV"
+  },
+  {
+    "id": 5,
+    "value": "Schedule V",
+    "label": "Schedule V"
+  }
+]

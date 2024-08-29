@@ -1,0 +1,54 @@
+[
+  {
+    "shortAbbreviation": "AD",
+    "abbreviation": "in right ear"
+  },
+  {
+    "shortAbbreviation": "AS",
+    "abbreviation": "in left ear"
+  },
+  {
+    "shortAbbreviation": "AU",
+    "abbreviation": "in each ear"
+  },
+  {
+    "shortAbbreviation": "OD",
+    "abbreviation": "in right eye"
+  },
+  {
+    "shortAbbreviation": "OS",
+    "abbreviation": "in left eye"
+  },
+  {
+    "shortAbbreviation": "OU",
+    "abbreviation": "in each eye"
+  },
+  {
+    "shortAbbreviation": "AREA",
+    "abbreviation": "to the affected area"
+  },
+  {
+    "shortAbbreviation": "ARM",
+    "abbreviation": "to the arm"
+  },
+  {
+    "shortAbbreviation": "CHEST",
+    "abbreviation": "to the chest wall"
+  },
+  {
+    "shortAbbreviation": "SHOULDER",
+    "abbreviation": "to the shoulder"
+  },
+  {
+    "shortAbbreviation": "LNare",
+    "abbreviation": "in left nostril"
+  },
+  {
+    "shortAbbreviation": "RNare",
+    "abbreviation": "in right nostril"
+  },
+  {
+    "shortAbbreviation": "BNare",
+    "abbreviation": "in both nostrils"
+  }
+]

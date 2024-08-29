@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="18" failures="0" errors="0" time="3.048">
+  <testsuite name="src\__tests__\StockMedicationsList.spec.tsx" errors="0" failures="0" skipped="0" timestamp="2024-07-23T18:07:01" time="2.539" tests="18">
+    <testcase classname="Stock Medications / Supply List Component  renders without crashing" name="Stock Medications / Supply List Component  renders without crashing" time="0.004">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Checking fields are available" name="Stock Medications / Supply List Component  Checking fields are available" time="0.215">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Search Master Checkbox select All &amp; Delete click" name="Stock Medications / Supply List Component  Search Master Checkbox select All &amp; Delete click" time="0.189">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  toggle master select" name="Stock Medications / Supply List Component  toggle master select" time="0.054">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Single Select &amp; Delete Schedule click" name="Stock Medications / Supply List Component  Single Select &amp; Delete Schedule click" time="0.086">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Search the fields" name="Stock Medications / Supply List Component  Search the fields" time="0.051">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Search the fields &amp; clears the text" name="Stock Medications / Supply List Component  Search the fields &amp; clears the text" time="0.047">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Signle Click on sort for Medication/Supply Column" name="Stock Medications / Supply List Component  Signle Click on sort for Medication/Supply Column" time="0.054">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Toggle for sort Medication/Supply Column" name="Stock Medications / Supply List Component  Toggle for sort Medication/Supply Column" time="0.049">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Signle Click on sort assigned to column" name="Stock Medications / Supply List Component  Signle Click on sort assigned to column" time="0.043">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Toggle for sort assigned to column" name="Stock Medications / Supply List Component  Toggle for sort assigned to column" time="0.041">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Click on Next Page" name="Stock Medications / Supply List Component  Click on Next Page" time="0.045">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Click on Next Page When Master Checkbox is checked" name="Stock Medications / Supply List Component  Click on Next Page When Master Checkbox is checked" time="0.045">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Open Edit Stock Medication &amp; Click on Cancel" name="Stock Medications / Supply List Component  Open Edit Stock Medication &amp; Click on Cancel" time="0.072">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Open Edit Stock Medication &amp; Click on Delete" name="Stock Medications / Supply List Component  Open Edit Stock Medication &amp; Click on Delete" time="0.062">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Export =&gt; Expost List" name="Stock Medications / Supply List Component  Export =&gt; Expost List" time="0.127">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Export =&gt; Expost Selected" name="Stock Medications / Supply List Component  Export =&gt; Expost Selected" time="0.071">
+    </testcase>
+    <testcase classname="Stock Medications / Supply List Component  Import Stock Medications" name="Stock Medications / Supply List Component  Import Stock Medications" time="0.032">
+    </testcase>
+  </testsuite>
+</testsuites>

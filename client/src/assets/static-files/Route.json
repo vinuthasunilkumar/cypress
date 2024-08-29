@@ -1,0 +1,371 @@
+[
+  {
+    "abbreviation": "base of the eyelashes"
+  },
+  {
+    "abbreviation": "buccal"
+  },
+  {
+    "abbreviation": "caudal block"
+  },
+  {
+    "abbreviation": "central line irrigation"
+  },
+  {
+    "abbreviation": "cervical"
+  },
+  {
+    "abbreviation": "combination"
+  },
+  {
+    "abbreviation": "cont intrathecal inf"
+  },
+  {
+    "abbreviation": "cont subcutan infusi"
+  },
+  {
+    "abbreviation": "contin. intraosseous infusion"
+  },
+  {
+    "abbreviation": "contin. intrathecal infusion"
+  },
+  {
+    "abbreviation": "contin. intravenous infusion"
+  },
+  {
+    "abbreviation": "contin. subcutaneous infusion"
+  },
+  {
+    "abbreviation": "contin.intra-arterial infusion"
+  },
+  {
+    "abbreviation": "continuous caudal infusion"
+  },
+  {
+    "abbreviation": "continuous epidural"
+  },
+  {
+    "abbreviation": "continuous infusion"
+  },
+  {
+    "abbreviation": "continuous nebulization"
+  },
+  {
+    "abbreviation": "cytapheresis"
+  },
+  {
+    "abbreviation": "dental"
+  },
+  {
+    "abbreviation": "endotracheal"
+  },
+  {
+    "abbreviation": "epidural"
+  },
+  {
+    "abbreviation": "extracorporeal"
+  },
+  {
+    "abbreviation": "feeding tube"
+  },
+  {
+    "abbreviation": "g-tube"
+  },
+  {
+    "abbreviation": "gums"
+  },
+  {
+    "abbreviation": "hand bulb nebulizer"
+  },
+  {
+    "abbreviation": "hemodialysis"
+  },
+  {
+    "abbreviation": "hemodialysis port injection"
+  },
+  {
+    "abbreviation": "implant"
+  },
+  {
+    "abbreviation": "in vitro"
+  },
+  {
+    "abbreviation": "infiltration"
+  },
+  {
+    "abbreviation": "inhalation"
+  },
+  {
+    "abbreviation": "injection"
+  },
+  {
+    "abbreviation": "intra-amniotic"
+  },
+  {
+    "abbreviation": "intra-arterial"
+  },
+  {
+    "abbreviation": "intra-articular"
+  },
+  {
+    "abbreviation": "intra-catheter"
+  },
+  {
+    "abbreviation": "intra-cavernosal"
+  },
+  {
+    "abbreviation": "intra-urethral"
+  },
+  {
+    "abbreviation": "intrabursal"
+  },
+  {
+    "abbreviation": "intracameral"
+  },
+  {
+    "abbreviation": "intracardiac"
+  },
+  {
+    "abbreviation": "intracavernosal"
+  },
+  {
+    "abbreviation": "intracavity"
+  },
+  {
+    "abbreviation": "intradermal"
+  },
+  {
+    "abbreviation": "intradetrusor"
+  },
+  {
+    "abbreviation": "intraductal"
+  },
+  {
+    "abbreviation": "intralesional"
+  },
+  {
+    "abbreviation": "intralumbar"
+  },
+  {
+    "abbreviation": "intralymphatic"
+  },
+  {
+    "abbreviation": "intramuscular"
+  },
+  {
+    "abbreviation": "intranasal"
+  },
+  {
+    "abbreviation": "intraocular"
+  },
+  {
+    "abbreviation": "intraocular injection"
+  },
+  {
+    "abbreviation": "intraocular irrigation"
+  },
+  {
+    "abbreviation": "intraosseous"
+  },
+  {
+    "abbreviation": "intrapericardial"
+  },
+  {
+    "abbreviation": "intraperitoneal"
+  },
+  {
+    "abbreviation": "intrapleural"
+  },
+  {
+    "abbreviation": "intraspinal"
+  },
+  {
+    "abbreviation": "intrasynovial"
+  },
+  {
+    "abbreviation": "intrathecal"
+  },
+  {
+    "abbreviation": "intrathoracic"
+  },
+  {
+    "abbreviation": "intratracheal"
+  },
+  {
+    "abbreviation": "intratympanic"
+  },
+  {
+    "abbreviation": "intrauterine"
+  },
+  {
+    "abbreviation": "intravenous"
+  },
+  {
+    "abbreviation": "intravenous push"
+  },
+  {
+    "abbreviation": "intraventricular"
+  },
+  {
+    "abbreviation": "intravesical"
+  },
+  {
+    "abbreviation": "ntravesical irrigation"
+  },
+  {
+    "abbreviation": "intravitreal"
+  },
+  {
+    "abbreviation": "irrigation"
+  },
+  {
+    "abbreviation": "j-tube"
+  },
+  {
+    "abbreviation": "juxtascleral"
+  },
+  {
+    "abbreviation": "laryngotracheal"
+  },
+  {
+    "abbreviation": "local infiltration"
+  },
+  {
+    "abbreviation": "local intranasal application"
+  },
+  {
+    "abbreviation": "miscellaneous"
+  },
+  {
+    "abbreviation": "mucous membrane"
+  },
+  {
+    "abbreviation": "nasal"
+  },
+  {
+    "abbreviation": "nasogastric tube"
+  },
+  {
+    "abbreviation": "nebulization"
+  },
+  {
+    "abbreviation": "o2 aerosolization"
+  },
+  {
+    "abbreviation": "ophthalmic"
+  },
+  {
+    "abbreviation": "ophthalmic (eye)"
+  },
+  {
+    "abbreviation": "oral"
+  },
+  {
+    "abbreviation": "osteochondrial"
+  },
+  {
+    "abbreviation": "otic"
+  },
+  {
+    "abbreviation": "otic (ear)"
+  },
+  {
+    "abbreviation": "peg tube"
+  },
+  {
+    "abbreviation": "peg-j tube"
+  },
+  {
+    "abbreviation": "percutaneous"
+  },
+  {
+    "abbreviation": "perfusion"
+  },
+  {
+    "abbreviation": "peribulbar"
+  },
+  {
+    "abbreviation": "perineal"
+  },
+  {
+    "abbreviation": "perineural injection"
+  },
+  {
+    "abbreviation": "periodontal"
+  },
+  {
+    "abbreviation": "periodontal pocket"
+  },
+  {
+    "abbreviation": "rectal"
+  },
+  {
+    "abbreviation": "retrobulbar"
+  },
+  {
+    "abbreviation": "scalp"
+  },
+  {
+    "abbreviation": "sub-tenon"
+  },
+  {
+    "abbreviation": "subconjunctival"
+  },
+  {
+    "abbreviation": "subcutaneous"
+  },
+  {
+    "abbreviation": "subdermal"
+  },
+  {
+    "abbreviation": "subgingival-local"
+  },
+  {
+    "abbreviation": "sublesional"
+  },
+  {
+    "abbreviation": "sublesionally"
+  },
+  {
+    "abbreviation": "sublingual"
+  },
+  {
+    "abbreviation": "submucosal anal canal"
+  },
+  {
+    "abbreviation": "submucosal injection"
+  },
+  {
+    "abbreviation": "tendon sheath injection"
+  },
+  {
+    "abbreviation": "topical"
+  },
+  {
+    "abbreviation": "transdermal"
+  },
+  {
+    "abbreviation": "translingual"
+  },
+  {
+    "abbreviation": "transtracheal"
+  },
+  {
+    "abbreviation": "transurethral"
+  },
+  {
+    "abbreviation": "urethral"
+  },
+  {
+    "abbreviation": "urinary catheter irrigation"
+  },
+  {
+    "abbreviation": "vaginal"
+  },
+  {
+    "abbreviation": "venous line irrigation"
+  },
+  {
+    "abbreviation": "wound irrigation"
+  }
+]

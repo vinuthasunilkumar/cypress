@@ -1,0 +1,275 @@
+[
+  {
+    "shortAbbreviation": "STAT",
+    "abbreviation": "immediately",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "Now",
+    "abbreviation": "now",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "X1",
+    "abbreviation": "as one dose",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QD",
+    "abbreviation": "once daily",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QD+PC",
+    "abbreviation": "once daily after meals",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QD+AC",
+    "abbreviation": "once daily before meals",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QD + Meal",
+    "abbreviation": "once daily with meals",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "BID",
+    "abbreviation": "2 times per day",
+    "noOfSpecificTimeInstance": 2,
+    "noOfRangeTimeInstance": 2
+  },
+  {
+    "shortAbbreviation": "BID+PC",
+    "abbreviation": "2 times per day after meals",
+    "noOfSpecificTimeInstance": 2,
+    "noOfRangeTimeInstance": 2
+  },
+  {
+    "shortAbbreviation": "BID+AC",
+    "abbreviation": "2 times per day before meals",
+    "noOfSpecificTimeInstance": 2,
+    "noOfRangeTimeInstance": 2
+  },
+  {
+    "shortAbbreviation": "BID+Meal",
+    "abbreviation": "2 times per day with meals",
+    "noOfSpecificTimeInstance": 2,
+    "noOfRangeTimeInstance": 2
+  },
+  {
+    "shortAbbreviation": "TID",
+    "abbreviation": "3 times per day",
+    "noOfSpecificTimeInstance": 3,
+    "noOfRangeTimeInstance": 3
+  },
+  {
+    "shortAbbreviation": "TID+PC",
+    "abbreviation": "3 times per day after meals",
+    "noOfSpecificTimeInstance": 3,
+    "noOfRangeTimeInstance": 3
+  },
+  {
+    "shortAbbreviation": "TID+AC",
+    "abbreviation": "3 times per day before meals",
+    "noOfSpecificTimeInstance": 3,
+    "noOfRangeTimeInstance": 3
+  },
+  {
+    "shortAbbreviation": "TID+Meal",
+    "abbreviation": "3 times per day with meals",
+    "noOfSpecificTimeInstance": 3,
+    "noOfRangeTimeInstance": 3
+  },
+  {
+    "shortAbbreviation": "QID",
+    "abbreviation": "4 times per day",
+    "noOfSpecificTimeInstance": 4,
+    "noOfRangeTimeInstance": 4
+  },
+  {
+    "shortAbbreviation": "QID+PC+HQ",
+    "abbreviation": "4 times per day before meals and at bedtime",
+    "noOfSpecificTimeInstance": 4,
+    "noOfRangeTimeInstance": 4
+  },
+  {
+    "shortAbbreviation": "QID+AC+HQ",
+    "abbreviation": "4 times per day after meals and at bedtime",
+    "noOfSpecificTimeInstance": 4,
+    "noOfRangeTimeInstance": 4
+  },
+  {
+    "shortAbbreviation": "QID+Meal+HQ",
+    "abbreviation": "4 times per day with meals and at bedtime",
+    "noOfSpecificTimeInstance": 4,
+    "noOfRangeTimeInstance": 4
+  },
+  {
+    "shortAbbreviation": "5XD",
+    "abbreviation": "5 times per day",
+    "noOfSpecificTimeInstance": 5,
+    "noOfRangeTimeInstance": 5
+  },
+  {
+    "shortAbbreviation": "6XD",
+    "abbreviation": "6 times per day",
+    "noOfSpecificTimeInstance": 6,
+    "noOfRangeTimeInstance": 6
+  },
+  {
+    "shortAbbreviation": "_XD",
+    "abbreviation": "_XD_times per day",
+    "noOfSpecificTimeInstance": 0,
+    "noOfRangeTimeInstance": 0
+  },
+  {
+    "shortAbbreviation": "QAM",
+    "abbreviation": "in the morning",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QPM",
+    "abbreviation": "in the evening",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QHS",
+    "abbreviation": "at bedtime",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QOD",
+    "abbreviation": "every other day",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "Q3D",
+    "abbreviation": "every 3 days",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "Q_min",
+    "abbreviation": "Every_minutes",
+    "noOfSpecificTimeInstance": 0,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 0
+  },
+  {
+    "shortAbbreviation": "QH",
+    "abbreviation": "every hour",
+    "noOfSpecificTimeInstance": 24,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 24
+  },
+  {
+    "shortAbbreviation": "Q2H",
+    "abbreviation": "every 2 hours",
+    "noOfSpecificTimeInstance": 12,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 12
+  },
+  {
+    "shortAbbreviation": "Q3H",
+    "abbreviation": "every 3 hours",
+    "noOfSpecificTimeInstance": 8,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 8
+  },
+  {
+    "shortAbbreviation": "Q4H",
+    "abbreviation": "every 4 hours",
+    "noOfSpecificTimeInstance": 6,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 6
+  },
+  {
+    "shortAbbreviation": "Q6H",
+    "abbreviation": "every 6 hours",
+    "noOfSpecificTimeInstance": 4,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 4
+  },
+  {
+    "shortAbbreviation": "Q8H",
+    "abbreviation": "every 8 hours",
+    "noOfSpecificTimeInstance": 3,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 3
+  },
+  {
+    "shortAbbreviation": "Q12H",
+    "abbreviation": "every 12 hours",
+    "noOfSpecificTimeInstance": 2,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 2
+  },
+  {
+    "shortAbbreviation": "Q24H",
+    "abbreviation": "every 24 hours",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 0,
+    "noOfSpecificTimes": 1
+  },
+  {
+    "shortAbbreviation": "QW",
+    "abbreviation": "every week",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "BIW",
+    "abbreviation": "2 times per week",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "TIW",
+    "abbreviation": "3 times per week",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "4XW",
+    "abbreviation": "4 times per week",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "5XW",
+    "abbreviation": "5 times per week",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "6XW",
+    "abbreviation": "6 times per week",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QMonth",
+    "abbreviation": "every month",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  },
+  {
+    "shortAbbreviation": "QShift",
+    "abbreviation": "every shift",
+    "noOfSpecificTimeInstance": 1,
+    "noOfRangeTimeInstance": 1
+  }
+]

@@ -1,0 +1,60 @@
+.mxc-login {
+	background-color: #fff;
+	height: 100%;
+
+	#okta-sign-in {
+		margin: 0 auto;
+		padding: 100px 0 0;
+		height: 100vh;
+		max-height: 100%;
+
+		.okta-sign-in-header {
+			background: transparent url('../../assets/images/MatrixCare_logo.svg') no-repeat center/50%;
+			height: 80px;
+			box-shadow: none;
+		}
+	}
+
+	#okta-sign-in.auth-container.main-container {
+		background-color: #fff;
+		border-color: #fff;
+	}
+
+	.bannerImg {
+		background-color: #fff;
+		background-image: url(../../assets/images/hero.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 35% 25%;
+		width: calc(100% - 439px);
+		height: 100vh;
+		min-height: 100%;
+		float: left;
+	}
+}
+
+.mxcLoginBody {
+	margin: 0;
+	padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+	.mxc-login {
+		.okta-login-wrapper {
+			#okta-sign-in {
+				padding: 25px;
+
+				.okta-sign-in-header {
+					background: transparent url('../../assets/images/MatrixCare_logo.svg') no-repeat center/70%;
+					height: 100px
+				}
+			}
+		}
+
+		.bannerImg {
+			display: none;
+			background-image: none;
+		}
+
+	}
+}

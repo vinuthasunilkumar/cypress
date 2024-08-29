@@ -1,0 +1,28 @@
+# pull official base image
+FROM node:18.13.0-alpine as build
+# set working directory
+WORKDIR /app
+# add `/app/node_modules/.bin` to $PATH
+ENV PATH /app/node_modules/.bin:$PATH
+# install app dependencies
+COPY package.json ./
+COPY package-lock.json ./
+# copy environment variables
+#COPY *.env ./
+#COPY *.env-dev ./
+# install packages
+RUN npm install --silent
+RUN npm install react-scripts@5.0.1 -g --silent
+# add app
+COPY . ./
+# build for production
+#RUN npm run qa-run
+RUN npm run build
+
+# production environment
+FROM nginx:stable-alpine
+COPY --from=build /app/dist /usr/share/nginx/html
+RUN rm -rf /etc/nginx/conf.d
+COPY conf /etc/nginx
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]

@@ -1,0 +1,3 @@
+interface IDescribedEntity {
+    description: string;
+}
